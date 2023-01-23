@@ -15,5 +15,5 @@ I like cats, rock and do some code<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 <hr>
-[![Discord Presence](https://lanyard.cnrad.dev/api/947960069990019092)](https://discord.com/users/947960069990019092?idleMessage=ZZZ)
+[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
 </p>
