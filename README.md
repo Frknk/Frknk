@@ -19,4 +19,6 @@ I like cats, rock and do some code<br>
 <a href="https://discord.com/users/947960069990019092" target="_blank" rel="nofollow">
 <img src="https://lanyard-profile-readme.vercel.app/api/947960069990019092?&idleMessage=zzz" alt="Discord Presence" align="center">
 </a>
+<hr>
+<p align="center"><samp>frank@rebel.rip</samp>
 </p>
