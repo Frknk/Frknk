@@ -3,7 +3,7 @@
 <samp>
 Wassup, I'm ##### ###### (Frank Rivera) aka Frknk<br>
 I like cats, rock and do some code<br>
-17y<br>
+19y<br>
 </samp>
 <hr>
 <p align="center"><samp> Languages
@@ -20,5 +20,5 @@ I like cats, rock and do some code<br>
 <img src="https://lanyard-profile-readme.vercel.app/api/947960069990019092?&idleMessage=zzz" alt="Discord Presence" align="center">
 </a>
 <hr>
-<p align="center"><samp>frank@rebel.rip</samp>
+<p align="center"><samp>hello@frknk.com</samp>
 </p>
